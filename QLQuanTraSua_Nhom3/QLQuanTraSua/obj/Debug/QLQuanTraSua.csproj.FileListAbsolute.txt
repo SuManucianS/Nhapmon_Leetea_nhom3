@@ -1,0 +1,59 @@
+C:\Users\Admin\source\repos\QLQuanTraSua\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe.config
+C:\Users\Admin\source\repos\QLQuanTraSua\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe
+C:\Users\Admin\source\repos\QLQuanTraSua\QLQuanTraSua\bin\Debug\QLQuanTraSua.pdb
+C:\Users\Admin\source\repos\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.DangNhap.resources
+C:\Users\Admin\source\repos\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe
+C:\Users\Admin\source\repos\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.pdb
+C:\Users\Admin\source\repos\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.LoaiDoUong.resources
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe.config
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.pdb
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\bin\Debug\QLQuanTraSua.pdb
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.LoaiDoUong.resources
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.ThongTinTK.resources
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.frmDoUong.resources
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.frmDangNhap.resources
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.MainMenu.resources
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.QlyNguyenLieu.resources
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.ChangePassWord.resources
+C:\Users\Admin\Desktop\QLQuanTraSua (1)\QLQuanTraSua\QLQuanTraSua\obj\Debug\QLQuanTraSua.QuanLyTaiKhoan.resources
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe.config
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\bin\Debug\QLQuanTraSua.pdb
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\obj\Debug\QLQuanTraSua.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\obj\Debug\QLQuanTraSua.ChangePassWord.resources
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\obj\Debug\QLQuanTraSua.frmDangNhap.resources
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\obj\Debug\QLQuanTraSua.frmDoUong.resources
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\obj\Debug\QLQuanTraSua.LoaiDoUong.resources
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\obj\Debug\QLQuanTraSua.MainMenu.resources
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\obj\Debug\QLQuanTraSua.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\obj\Debug\QLQuanTraSua.QlyNguyenLieu.resources
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\obj\Debug\QLQuanTraSua.QuanLyTaiKhoan.resources
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe
+C:\Users\Admin\Downloads\QLQuanTraSua_Nhom03\QLQuanTraSua\obj\Debug\QLQuanTraSua.pdb
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe.config
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\bin\Debug\QLQuanTraSua.pdb
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\obj\Debug\QLQuanTraSua.csprojAssemblyReference.cache
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\obj\Debug\QLQuanTraSua.ChangePassWord.resources
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\obj\Debug\QLQuanTraSua.frmDangNhap.resources
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\obj\Debug\QLQuanTraSua.frmDoUong.resources
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\obj\Debug\QLQuanTraSua.LoaiDoUong.resources
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\obj\Debug\QLQuanTraSua.MainMenu.resources
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\obj\Debug\QLQuanTraSua.Properties.Resources.resources
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\obj\Debug\QLQuanTraSua.QlyNguyenLieu.resources
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\obj\Debug\QLQuanTraSua.QuanLyTaiKhoan.resources
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.GenerateResource.cache
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CoreCompileInputs.cache
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe
+D:\zip\QLQuanTraSua_Nhom3\QLQuanTraSua\obj\Debug\QLQuanTraSua.pdb
